@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Sofía Gamboa Navarro
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Ingeniera+en+Inform%C3%A1tica;Desarrolladora+Full+Stack;Apasionada+por+la+tecnolog%C3%ADa;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Ingeniera+en+Inform%C3%A1tica;Apasionada+por+la+tecnolog%C3%ADa;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre mí
