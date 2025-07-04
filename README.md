@@ -132,33 +132,10 @@ Scrum • Kanban • Debugging • Análisis de datos • Pruebas funcionales �
 </div>
 
 <div align="center">
-  <i>💡 "El código es poesía escrita en lógica" - Sofía Gamboa</i>
+  <i>💡 "El código es poesía escrita en lógica"</i>
 </div>
 
 ---
 
 ⭐ **¿Te gusta mi trabajo?** ¡No olvides darle una estrella a mis repositorios!
 ```
-
-## 🎨 **Características del README:**
-
-### ✨ **Elementos incluidos:**
-- **Header animado** con typing effect
-- **Badges profesionales** para tecnologías
-- **Estadísticas de GitHub** visuales
-- **Proyecto destacado** con detalles técnicos
-- **Sección de aprendizaje** actual
-- **Competencias profesionales** organizadas
-- **Enlaces de contacto** con iconos
-- **Objetivos 2025** como checklist
-- **Contador de visitas** al perfil
-
-### 🚀 **Beneficios:**
-- **Profesional y atractivo** visualmente
-- **Información completa** sobre tu perfil
-- **Fácil navegación** y lectura
-- **Actualizable** según tu progreso
-- **Compatible** con GitHub
-
-¡Este README hará que tu perfil destaque profesionalmente! 🌟
-
