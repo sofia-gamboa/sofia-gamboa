@@ -101,12 +101,6 @@ Scrum • Kanban • Debugging • Análisis de datos • Pruebas funcionales �
 - 🔄 **Adaptabilidad y aprendizaje continuo**
 - 🎯 **Orientación a resultados y calidad**
 
-## 📈 Actividad en GitHub
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sofia-gamboa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ## 🤝 Conecta conmigo
 
 <div align="center">
